@@ -13,7 +13,7 @@ export default function Home() {
         <div className="xm:h-[24px] w-[134px] md:h-[34px] md:w-[191px]">
           <Link href="/">
             <Image
-              src="/Logo.svg" // Ensure this file is in the `/public` folder
+              src="/Logo.svg" // Ensure this file is in the /public folder
               alt="Logo"
               width={191}
               height={43}
@@ -53,7 +53,7 @@ export default function Home() {
                 onClick={handleNavToggle}
               >
                 <Image
-                  src="/Btn.svg" // Ensure this file is in the `/public` folder
+                  src="/Btn.svg" // Ensure this file is in the /public folder
                   alt="Menu Button"
                   width={42}
                   height={24}

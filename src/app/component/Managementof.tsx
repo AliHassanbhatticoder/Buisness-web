@@ -83,7 +83,7 @@ export default function Management() {
             </div>
             <div>
               <button className="w-[232px]  h-[70px] rounded-[8px] bg-[#4F9CF9] text-white font-semibold font-sans lg:w-[219px]  lg:h-[63px] ">
-                Let’s Go
+                Let&rsquo;s Go
               </button>
             </div>
           </div>
@@ -124,7 +124,7 @@ export default function Management() {
               </h3>
               <p className="text-[#212529] w-[288px] font-sans text-[18px] font-normal leading-[30px] tracking-[-0.02em] text-center md:w-[728px] lg:w-[526px] lg:text-left xl:w-[630px]">
                 The app is open source and your notes are saved to an open
-                format, so you'll always have access to them. Uses End-To-End
+                format, so you&rsquo;ll always have access to them. Uses End-To-End
                 Encryption (E2EE) to secure your notes and ensure no-one but
                 yourself can access them.
               </p>
@@ -259,8 +259,8 @@ export default function Management() {
               </div>
 
               <p className="text-[#01252A] font-sans text-[18px] font-normal leading-[30px] tracking-[-0.02em]">
-                “If you haven’t tried EventSprout yet, you need to give it a
-                shot for your next event. It’s so easy and intuitive to get a
+                “If you haven&rsquo;t tried EventSprout yet, you need to give it a
+                shot for your next event. It&rsquo;s so easy and intuitive to get a
                 new event setup, and if you need any help their customer service
                 is seriously amazing.”
               </p>
